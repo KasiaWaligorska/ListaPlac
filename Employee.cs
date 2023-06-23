@@ -95,7 +95,7 @@ public class Employee
         String description = "Adding new employee to the company: " + 
                              this.company.GetCompanyName() + 
                              "\n" + 
-                             "-----------------------------------------------------------------------";
+                             "-----------------------------------------------------------------------------";
         String successMessage = "Employee added successfully!";
         
         Console.WriteLine(description);
