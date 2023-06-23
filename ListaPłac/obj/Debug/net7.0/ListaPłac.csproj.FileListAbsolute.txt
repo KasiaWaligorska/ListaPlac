@@ -1,0 +1,15 @@
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\bin\Debug\net7.0\ListaPłac.exe
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\bin\Debug\net7.0\ListaPłac.deps.json
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\bin\Debug\net7.0\ListaPłac.runtimeconfig.json
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\bin\Debug\net7.0\ListaPłac.dll
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\bin\Debug\net7.0\ListaPłac.pdb
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.csproj.AssemblyReference.cache
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.AssemblyInfoInputs.cache
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.AssemblyInfo.cs
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.csproj.CoreCompileInputs.cache
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.dll
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\refint\ListaPłac.dll
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.pdb
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ListaPłac.genruntimeconfig.cache
+C:\Users\kwaligorska\RiderProjects\ListaPłac\ListaPłac\obj\Debug\net7.0\ref\ListaPłac.dll
