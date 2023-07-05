@@ -1,0 +1,9 @@
+{
+    "title": "Avatar",
+    "year": "2009",
+    "genre": "Adventure",
+    "director": {
+      "firstName": "James",
+      "lastName": "Cameron"
+    }
+}

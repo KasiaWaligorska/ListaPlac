@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "rYxKvvq5TFYujWGFrgcS4k9fbDkbSWFv3gr1Am/nfkce/rnRLWFee1pMfT5bFpcG4ftGYINwJVcQ5qTU9zwxYg==",
+  "dgSpecHash": "yB47x4ZUQ+0O6o89wo2WeII6qfNdMi7qi5ruausaWDsjmhqxokbxZoDtYFSTKzSmgSN2FIJdpaKKlfOJh/28kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kwaligorska\\RiderProjects\\JSON\\JSON\\JSON.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.fileextensions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.json.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.fileproviders.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0-preview.5.23280.8\\microsoft.extensions.fileproviders.physical.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0-preview.5.23280.8\\microsoft.extensions.filesystemglobbing.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.5.23280.8\\microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.5.23280.8\\system.text.encodings.web.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\kwaligorska\\.nuget\\packages\\system.text.json\\8.0.0-preview.5.23280.8\\system.text.json.8.0.0-preview.5.23280.8.nupkg.sha512"
+  ],
   "logs": []
 }
